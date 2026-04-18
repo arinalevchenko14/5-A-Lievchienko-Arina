@@ -3,9 +3,7 @@ print(a)
 a=a*3
 print(a)
 
-c='Вітаю!'
+c='Вітаю'
 print(c)
 c=c*3
 print(c)
-
-no
